@@ -9,7 +9,7 @@ filtra por tiempo mínimo de respuesta y exporta la base depurada (price_continu
 5. DCEi_03a_batch: controla la ejecución automática y secuencial de los scripts de estimación, definiendo las rutas de trabajo y los grupos a correr.
 
 6. DCEi_03b_estimacionMMNL_sinInt: ejecuta las estimaciones del modelo por país y por grupo
-7. DCEi_03b_estimacionMMNL_sinInt_pool: realiza las mismas estimaciones sobre la muestra combinada por grupo.
-
+7. DCEe_04b_estimacionMMNL_groups_pooled
+   
 Para realizar las figuras de heterogeneidades se tiene en cuenta el script: 
 6. DCEi_05_Figures: 
