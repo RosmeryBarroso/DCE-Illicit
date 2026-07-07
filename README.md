@@ -10,7 +10,7 @@ filtra por tiempo mínimo de respuesta y exporta la base depurada (price_continu
    -  DCEi_03b_estimacionMMNL_sinInt: ejecuta las estimaciones del modelo por país y por grupo
    -  DCEe_04b_estimacionMMNL_groups_pooled:Estima el modelo MMNL de forma conjunta (Colombia y Bolivia) y por subgrupo de la muestra.
    
-Para realizar las figuras de heterogeneidades se tiene en cuenta el siguiente script: 
+Para realizar las figuras de heterogeneidades se tiene en cuenta el siguiente script:                                                        
 4. DCEi_05_Figures.R: Genera forest plots comparando Colombia y Bolivia por subgrupos de heterogeneidad (historial de compra, reconocimiento de ilícitos, precio, aversión al riesgo, preferencias intertemporales, dependencia, ciudad y valores prosociales) a partir de los coeficientes MMNL exportados.
 
 5. DCE_05_simulaciones_precio_Licito.R : Estima el modelo MMNL principal y luego simula el efecto de subir el precio de los productos licitos (manteniendo fijo el precio del ilícito) sobre las participaciones de mercado y elasticidades, tanto para la muestra completa como por subgrupos de compradores.
