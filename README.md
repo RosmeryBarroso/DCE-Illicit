@@ -15,4 +15,4 @@ filtra por tiempo mínimo de respuesta y exporta la base depurada (price_continu
 Para realizar las figuras de heterogeneidades se tiene en cuenta el siguiente script:                                                        
 5. DCEi_05_Figures.R: Genera forest plots comparando Colombia y Bolivia por subgrupos de heterogeneidad (historial de compra, reconocimiento de ilícitos, precio, aversión al riesgo, preferencias intertemporales, dependencia, ciudad y valores prosociales) a partir de los coeficientes MMNL exportados.
 
-6. DCE_05_simulaciones_precio_Licito.R : Estima el modelo MMNL principal y luego simula el efecto de subir el precio de los productos licitos (manteniendo fijo el precio del ilícito) sobre las participaciones de mercado y elasticidades, tanto para la muestra completa como por subgrupos de compradores.
+6. DCE_06_simulaciones_precio_Licito.R : Estima el modelo MMNL principal y luego simula el efecto de subir el precio de los productos licitos (manteniendo fijo el precio del ilícito) sobre las participaciones de mercado y elasticidades.
